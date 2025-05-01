@@ -1,0 +1,5 @@
+build-essential
+cmake
+git
+libopenblas-dev
+libomp-dev
